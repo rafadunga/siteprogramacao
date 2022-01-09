@@ -1,6 +1,6 @@
 *, body{
     background-color: rgb(231, 233, 113);
 }
-#javascript{
+#javascript, #python, #java{
     color: blueviolet;
 }
